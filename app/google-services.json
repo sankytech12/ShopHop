@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363693106235",
+    "project_id": "shophop-d6b4a",
+    "storage_bucket": "shophop-d6b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363693106235:android:52ba697831934e4448681e",
+        "android_client_info": {
+          "package_name": "com.example.shophop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363693106235-dl056fg6v4la0holk8iv5ebe7b885rgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA2hPWMmW4QgcXqbuuFTF2fqv7yfURgSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363693106235-dl056fg6v4la0holk8iv5ebe7b885rgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
